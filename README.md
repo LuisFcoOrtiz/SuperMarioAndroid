@@ -15,3 +15,5 @@ las carácteristicas son las siguientes:
 
 * Panel web (Vista desde smartphone)
 ![2](https://user-images.githubusercontent.com/8844134/36866657-352c3a1a-1d93-11e8-8469-5a33e42901d8.jpeg)
+
+(Proyecto realizado para la asigntaura de aplicaciones móviles DAM)
