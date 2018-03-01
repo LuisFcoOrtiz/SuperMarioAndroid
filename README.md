@@ -8,7 +8,7 @@ las carácteristicas son las siguientes:
 * Datos de cada partida enviados a una base de datos MySQL para mostrar fecha, puntos y tiempo de cada partida
 * Visualización de puntuación y tiempo de juego en tiempo real
 * Interacción con los diferentes Items y enemigos del mapa
-* Musica de juego y sonido de interacción con los diferentes items
+* Música de juego y sonido de interacción con los diferentes items
 
 ## Capturas
 * Juego
